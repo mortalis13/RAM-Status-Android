@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.mostalis.ramstatus.MainActivity" >
+
+    <item
+        android:id="@+id/exit"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_exit"/>
+
+</menu>

@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:maxLevel="700">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="701">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="702">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="703">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="704">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="705">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="706">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="707">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="708">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="709">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="710">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="711">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="712">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="713">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="714">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="715">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="716">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="717">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="718">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="719">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="720">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="721">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="722">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="723">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="724">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="725">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="726">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="727">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="728">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="729">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="730">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="731">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="732">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="733">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="734">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="735">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="736">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="737">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="738">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="739">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="740">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="741">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="742">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="743">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="744">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="745">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="746">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="747">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="748">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="749">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="750">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="751">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="752">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="753">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="754">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="755">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="756">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="757">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="758">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="759">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="760">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="761">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="762">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="763">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="764">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="765">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="766">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="767">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="768">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="769">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="770">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="771">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="772">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="773">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="774">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="775">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="776">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="777">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="778">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="779">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="780">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="781">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="782">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="783">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="784">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="785">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="786">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="787">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="788">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="789">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="790">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_0" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="791">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_1" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="792">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_2" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="793">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_3" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="794">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_4" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="795">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_5" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="796">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_6" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="797">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="798">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_8" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="799">
+        <layer-list>
+            <item android:right="26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_7" />
+            </item>
+            <item>
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+            <item android:right="-26.0dip">
+                <bitmap android:gravity="center" android:src="@drawable/notify_digit_9" />
+            </item>
+        </layer-list>
+    </item>
+</level-list>
