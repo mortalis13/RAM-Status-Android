@@ -10,4 +10,4 @@ Shows available memory in the status bar
 
 ## Screenshots
 
-![Image_1](_img/ramstatus-1.png)<br>
+![Image_1](_img/ramstatus-1_.png)<br>
