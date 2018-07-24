@@ -1,6 +1,6 @@
 # RAM Status
 
-![Icon](_img/icon.png)
+![Icon](_img/icon_.png)
 
 Shows available memory in the status bar
 
