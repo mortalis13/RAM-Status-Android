@@ -1,7 +1,6 @@
 package org.mortalis.ramstatus;
 
 import android.app.AlarmManager;
-import android.app.NotificationManager;
 import android.app.PendingIntent;
 import android.app.Service;
 import android.content.Context;
@@ -11,14 +10,13 @@ import android.os.HandlerThread;
 import android.os.IBinder;
 import android.os.Looper;
 import android.os.Message;
-import android.util.Log;
-import android.widget.Toast;
 
 public class MemService extends Service {
 
   private Looper mServiceLooper;
   private ServiceHandler mServiceHandler;
-  String mName;
+  
+  private String mName;
 
 
   private final class ServiceHandler extends Handler {
@@ -28,8 +26,7 @@ public class MemService extends Service {
 
     @Override
     public void handleMessage(Message msg) {
-      SetAlarm();
-//      stopSelf(msg.arg1); 
+      startAlarm();
     }
   }
 
@@ -48,8 +45,8 @@ public class MemService extends Service {
   @Override
   public int onStartCommand(Intent intent, int flags, int startId) {
     String toastMsg = "RAM Status Service Started";
-    Log.i(MainActivity.TAG, toastMsg);
-    Toast.makeText(this, toastMsg, Toast.LENGTH_LONG).show();
+    Fun.log(toastMsg);
+    Fun.toast(this, toastMsg);
 
     Message msg = mServiceHandler.obtainMessage();
     msg.arg1 = startId;
@@ -67,17 +64,17 @@ public class MemService extends Service {
   
   @Override
   public void onDestroy() {
-    CancelAlarm();
-    cancelNotification(this);
+    stopAlarm();
+    Fun.cancelNotification(this);
     
     String toastMsg = "RAM Status Service Stopped";
-    Log.i(MainActivity.TAG, toastMsg);
-    Toast.makeText(this, toastMsg, Toast.LENGTH_LONG).show();
+    Fun.log(toastMsg);
+    Fun.toast(this, toastMsg);
     super.onDestroy();
   }
 
 
-  public void SetAlarm() {
+  private void startAlarm() {
     Context context = this;
     AlarmManager am = (AlarmManager) context.getSystemService(Context.ALARM_SERVICE);
     Intent intent = new Intent(context, AlarmReceiver.class);
@@ -85,7 +82,7 @@ public class MemService extends Service {
     am.setRepeating(AlarmManager.RTC_WAKEUP, System.currentTimeMillis(), 1000, pi);
   }
 
-  public void CancelAlarm() {
+  private void stopAlarm() {
     Context context = this;
     AlarmManager alarmManager = (AlarmManager) context.getSystemService(Context.ALARM_SERVICE);
     Intent intent = new Intent(context, AlarmReceiver.class);
@@ -93,10 +90,4 @@ public class MemService extends Service {
     alarmManager.cancel(sender);
   }
   
-  
-  public void cancelNotification(Context context){
-    NotificationManager mNotificationManager = (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);
-    mNotificationManager.cancel(MainActivity.notificationId);
-  }
-
 }

@@ -11,9 +11,6 @@ import android.widget.Button;
 
 public class MainActivity extends Activity {
   
-  public static final String TAG = "RAM Status Log";
-  public static int notificationId = 123;
-  
   @Override
   public void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
@@ -54,12 +51,12 @@ public class MainActivity extends Activity {
   }
   
   
-  public void startService() {
+  private void startService() {
     Intent intent = new Intent(this, MemService.class);
     startService(intent);
   }
 
-  public void stopService() {
+  private void stopService() {
     Intent intent = new Intent(this, MemService.class);
     stopService(intent);
   }
