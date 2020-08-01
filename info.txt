@@ -1,0 +1,3 @@
+-better style for buttons
+-open activity on notification click
+-check if notification can be updated without recreating (now each RAM update provokes flashes in the notification area when it's maximized)

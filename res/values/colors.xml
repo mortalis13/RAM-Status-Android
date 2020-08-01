@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#3F51B5</color>
+  <color name="colorPrimaryDark">#303F9F</color>
+  <color name="colorAccent">#59af95</color>
+  
+  <color name="main_background">#fff</color>
+  <color name="menu_text_color_default">#333</color>
+  <color name="menu_text_color_disabled">#aaa</color>
+  <color name="dialog_background">#eee</color>
+  <color name="panel_horizontal_divider">#bbb</color>
+
+  <color name="common_button_stroke_color_pressed">#555</color>
+  <color name="common_button_stroke_color_default">#555</color>
+  <color name="common_button_background_pressed">#fff</color>
+  <color name="common_button_background_default">#eee</color>
+  
+  <color name="start_service_button_background_pressed">#91c59a</color>
+  <color name="start_service_button_background_default">#9bd4a6</color>
+  
+  <color name="stop_service_button_background_pressed">#e49483</color>
+  <color name="stop_service_button_background_default">#ee9b88</color>
+</resources>

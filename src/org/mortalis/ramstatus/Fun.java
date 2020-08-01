@@ -142,7 +142,7 @@ public class Fun {
   //---------------------------------------------- Notifications ----------------------------------------------
   
   public static void showNotification(Context context, int iconId, int ramMB) {
-    NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(context);
+    NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(context, "1");
     
     // Bitmap largeIcon = null;
     Bitmap largeIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.notif_large);
