@@ -12,7 +12,12 @@ public class AlarmReceiver extends BroadcastReceiver {
   public void onReceive(Context context, Intent intent) {
     int ramMB = getMem(context);
     int iconId = getIcon(ramMB);
-    Fun.showNotification(context, iconId, ramMB);
+    int iconLevel = ramMB;
+    if (iconId == 0) {
+      iconId = R.drawable.icon_digits_00;
+      iconLevel = 0;
+    }
+    Fun.showNotification(context, iconId, iconLevel, ramMB);
   }
   
 

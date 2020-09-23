@@ -3,8 +3,8 @@
 // jdk1.8.0_91
 
 apply plugin: 'com.android.application'
-apply plugin: 'eclipse'
-apply plugin: 'com.greensopinion.gradle-android-eclipse'
+// apply plugin: 'eclipse'
+// apply plugin: 'com.greensopinion.gradle-android-eclipse'
 
 buildscript {
   repositories {
@@ -18,7 +18,7 @@ buildscript {
   dependencies {
     classpath 'com.android.tools.build:gradle:3.0.1'
     // classpath "gradle.plugin.com.greensopinion.gradle-android-eclipse:android-eclipse:1.0"
-    classpath "gradle.plugin.com.greensopinion.gradle-android-eclipse:android-eclipse:1.0.2" // offline custom build
+    // classpath "gradle.plugin.com.greensopinion.gradle-android-eclipse:android-eclipse:1.0.2" // offline custom build
   }
 }
 
@@ -38,10 +38,6 @@ android {
   defaultConfig {
     applicationId "org.mortalis.ramstatus"
     vectorDrawables.useSupportLibrary = true
-    
-    ndk {
-      abiFilters 'armeabi-v7a'
-    }
   }
   
   // -- uncomment to build NDK modules
@@ -100,18 +96,18 @@ task appStartRelease(type: Exec, dependsOn: 'installRelease') {
 
 
 // -- generate classpath libs for Eclipse
-androidEclipse {
-  srcDir 'src'
-  aarOutputDir 'exploded-aars'
-}
+// androidEclipse {
+//   srcDir 'src'
+//   aarOutputDir 'exploded-aars'
+// }
 
-configurations {
-  androidConfig.extendsFrom implementation
-}
+// configurations {
+//   androidConfig.extendsFrom implementation
+// }
 
-eclipse {
-  classpath {
-    plusConfigurations += [ configurations.androidConfig ]
-    downloadSources = true
-  }
-}
+// eclipse {
+//   classpath {
+//     plusConfigurations += [ configurations.androidConfig ]
+//     downloadSources = true
+//   }
+// }

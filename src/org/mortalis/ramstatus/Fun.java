@@ -141,13 +141,14 @@ public class Fun {
   
   //---------------------------------------------- Notifications ----------------------------------------------
   
-  public static void showNotification(Context context, int iconId, int ramMB) {
-    NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(context, "1");
+  public static void showNotification(Context context, int iconId, int iconLevel, int ramMB) {
+    log("showNotification(): iconId=" + iconId + ", ramMB=" + ramMB);
+    NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(context, Vars.NOTIFICATIONS_CHANNEL_ID);
     
     // Bitmap largeIcon = null;
     Bitmap largeIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.notif_large);
     
-    mBuilder.setSmallIcon(iconId, ramMB);
+    mBuilder.setSmallIcon(iconId, iconLevel);
     mBuilder.setLargeIcon(largeIcon);
     mBuilder.setOngoing(true);
     
